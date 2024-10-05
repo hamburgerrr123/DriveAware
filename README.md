@@ -1,4 +1,4 @@
-# Wake-Watch: Driver Drowsiness Detection System
+# DriveAware: Driver Drowsiness Detection System
 
 ## Overview
 
