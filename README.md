@@ -2,7 +2,7 @@
 
 ## Overview
 
-Wake-Watch is an intermediate Python project that detects driver drowsiness to prevent accidents caused by fatigue. The system uses computer vision and deep learning techniques to monitor a driver's eyes and alert them when signs of drowsiness are detected.
+DriveAware is an intermediate Python project that detects driver drowsiness to prevent accidents caused by fatigue. The system uses computer vision and deep learning techniques to monitor a driver's eyes and alert them when signs of drowsiness are detected.
 
 ## Features
 
